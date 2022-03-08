@@ -59,7 +59,7 @@ Plot data directly from a dataframe
 ### Getting Started
 
 * [01_getting_started.ipynb](01_getting_started.ipynb)
-* [02.1_getting-started.ipynb](02.1_getting-started.ipynb)
+* [02.1_getting_started.ipynb]([02.1_getting_started.ipynb)
 * [02.2_libraries.ipynb](02.2_libraries.ipynb)
 
 ### Conditionals and Loops

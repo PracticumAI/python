@@ -6,7 +6,7 @@ The vast majority of hands-on artificial intelligence work is currently done usi
 
 The content in this repository is aimed at beginning coders who may have never programmed before. As with the rest of the *Practicum AI* workshops, we use Jupyter Notebooks for the learning experience. Jupyter Notebooks are an easy to use, yet powerful tool that allow interactive coding as well as nicely formatted explanatory text. Much of exploratory AI research is conducted in Jupyter notebooks, and it is easy to transfer code from notebooks to scripts when it is time to scale up analyses.
 
-## Introduction to Python Workshop Learning Objectives:
+## Introduction to Python Workshop Learning Objectives
 
 * Navigate within the Jupyter Notebook / Jupyter Lab environment
 * Create a new Python script
@@ -78,7 +78,7 @@ Plot data directly from a dataframe
 * [04.1_data_mgmt.ipynb](04.1_data_mgmt.ipynb)
 * [04.2_data_mgmt.ipynb](04.2_data_mgmt.ipynb)
 
-## Powerpoint slides used in this workshop
+## Presentations in this workshop
 
 > Note, links download the PowerPoint files.
 

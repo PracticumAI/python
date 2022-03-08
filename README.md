@@ -1,12 +1,13 @@
 # Introduction to Python Workshop
 
-![Practicum AI Logo image](images/PracticumAI_logo.png) ![Python icon](images/noun_Python_green.svg)
+![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) ![Python icon](https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/89193c4a3ee37f2df75800745f6ffe4a58b256a1/images/icons/noun_Python_green.svg)
 
 The vast majority of hands-on artificial intelligence work is currently done using the Python programming language. As such, *some* understanding of Python, in particular, and computer programming, in general, is needed to be successful in applying AI. That said, it is truly astounding how much complex AI research can be accomplished with a few lines of code!
 
 The content in this repository is aimed at beginning coders who may have never programmed before. As with the rest of the *Practicum AI* workshops, we use Jupyter Notebooks for the learning experience. Jupyter Notebooks are an easy to use, yet powerful tool that allow interactive coding as well as nicely formatted explanatory text. Much of exploratory AI research is conducted in Jupyter notebooks, and it is easy to transfer code from notebooks to scripts when it is time to scale up analyses.
 
 ## Introduction to Python Workshop Learning Objectives:
+
 * Navigate within the Jupyter Notebook / Jupyter Lab environment
 * Create a new Python script
 * Create a Jupyter notebook
@@ -50,7 +51,6 @@ Plot data directly from a dataframe
 * Refactor one-page programs to make them more readable and justify the changes
 * Use Python community coding standards (PEP-8)
 
-
 ## Notebooks in this workshop
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/python)
@@ -58,31 +58,31 @@ Plot data directly from a dataframe
 
 ### Getting Started
 
-* [01_getting_started.ipynb](01_getting_started.ipynb))
+* [01_getting_started.ipynb](01_getting_started.ipynb)
 * [02.1_getting-started.ipynb](02.1_getting-started.ipynb)
 * [02.2_libraries.ipynb](02.2_libraries.ipynb)
 
 ### Conditionals and Loops
 
-* [04_loops-01-student.ipynb](04_loops-01-student.ipynb)
-* [05_loops-02-student.ipynb](05_loops-02-student.ipynb)
+* [03.1_loops.ipynb](03.1_loops.ipynb)
+* [03.2_conditionals.ipynb](03.2_conditionals.ipynb)
 
 ### Functions
 
-* [06_functions-01-student.ipynb](06_functions-01-student.ipynb)
-* [07_functions-02-student.ipynb](07_functions-02-student.ipynb)
+* [03.3_functions.ipynb](03.3_functions.ipynb)
+* [03.4_functions.ipynb](03.4_functions.ipynb)
 
 
 ### Data management with Pandas 
 
-* [08_data-mgmt-01-student.ipynb](08_data-mgmt-01-student.ipynb)
-* [09_data-mgmt-02-student.ipynb](09_data-mgmt-02-student.ipynb)
+* [04.1_data_mgmt.ipynb](04.1_data_mgmt.ipynb)
+* [04.2_data_mgmt.ipynb](04.2_data_mgmt.ipynb)
 
 ## Powerpoint slides used in this workshop
 
 > Note, links download the PowerPoint files.
 
-* [![PowerPoint icon](images/pptx_icon.png) Introduction to Python](https://github.com/PracticumAI/python/raw/main/presentations/01_py_getting_started.pptx)
-* [![PowerPoint icon](images/pptx_icon.png) Python Booleans, Conditionals, and Loops](https://github.com/PracticumAI/python/raw/main/presentations/02_py_loops.pptx)
-* [![PowerPoint icon](images/pptx_icon.png) Python Functions](https://github.com/PracticumAI/python/raw/main/presentations/03_py_functions.pptx)
-* [![PowerPoint icon](images/pptx_icon.png) Python Data Management with Pandas](https://github.com/PracticumAI/python/raw/main/presentations/04_py_data_mgmt.pptx)
+* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Introduction to Python](https://github.com/PracticumAI/python/raw/main/presentations/01_getting_started.pptx)
+* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Booleans, Conditionals, and Loops](https://github.com/PracticumAI/python/raw/main/presentations/02_loops.pptx)
+* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Functions](https://github.com/PracticumAI/python/raw/main/presentations/03_functions.pptx)
+* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Data Management with Pandas](https://github.com/PracticumAI/python/raw/main/presentations/04_data_mgmt.pptx)

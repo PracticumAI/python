@@ -1,6 +1,6 @@
 # Introduction to Python Workshop
 
-![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) ![Python icon](https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/89193c4a3ee37f2df75800745f6ffe4a58b256a1/images/icons/noun_Python_green.svg)
+[![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true)](https://practicumai.org/) ![Python icon](https://raw.githubusercontent.com/PracticumAI/practicumai.github.io/89193c4a3ee37f2df75800745f6ffe4a58b256a1/images/icons/noun_Python_green.svg)
 
 The vast majority of hands-on artificial intelligence work is currently done using the Python programming language. As such, *some* understanding of Python, in particular, and computer programming, in general, is needed to be successful in applying AI. That said, it is truly astounding how much complex AI research can be accomplished with a few lines of code!
 

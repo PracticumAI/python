@@ -90,7 +90,7 @@ The content in this repository is aimed at beginning coders who may have never p
 
 > Note, links download the PowerPoint files.
 
-* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Introduction to Python](https://github.com/PracticumAI/python/raw/main/presentations/01_py_getting_started.pptx)
-* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Booleans, Conditionals, and Loops](https://github.com/PracticumAI/python/raw/main/presentations/02_py_loops.pptx)
-* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Functions](https://github.com/PracticumAI/python/raw/main/presentations/03_py_functions.pptx)
-* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Data Management with Pandas](https://github.com/PracticumAI/python/raw/main/presentations/04_py_data_mgmt.pptx)
+* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Introduction to Python]()(https://github.com/PracticumAI/python/raw/main/presentations/01_getting_started.pptx)
+* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Booleans, Conditionals, and Loops](https://github.com/PracticumAI/python/raw/main/presentations/02_loops.pptx)
+* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Functions](https://github.com/PracticumAI/python/raw/main/presentations/03_functions.pptx)
+* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Data Management with Pandas](https://github.com/PracticumAI/python/raw/main/presentations/04_data_mgmt.pptx)

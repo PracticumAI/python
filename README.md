@@ -68,7 +68,7 @@ The content in this repository is aimed at beginning coders who may have never p
 
 ### Getting Started
 
-* [01.1_getting_started.ipynb](01_getting_started.ipynb)
+* [01.1_getting_started.ipynb](01.1_getting_started.ipynb)
 * [01.2_getting_started.ipynb](01.2_getting_started.ipynb)
 
 ### Libraries and Modules

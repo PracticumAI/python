@@ -9,9 +9,22 @@ The vast majority of hands-on artificial intelligence work is currently done usi
 
 The content in this repository is aimed at beginning coders who may have never programmed before. As with the rest of the *Practicum AI* workshops, we use Jupyter Notebooks for the learning experience. Jupyter Notebooks are an easy to use, yet powerful tool that allow interactive coding as well as nicely formatted explanatory text. Much of exploratory AI research is conducted in Jupyter notebooks, and it is easy to transfer code from notebooks to scripts when it is time to scale up analyses.
 
-## Workshop Learning Objectives (*Python*)
+***
+### Pre-Workshop
+**Watch**
+1. How to Learn a Programming Language
+2. Code Performance in HPC Environments 
 
+**Complete**
+1. Python Pre-Workshop (QuickQuiz)
+
+***
 ### Session 1
+
+### Summary
+
+### Objectives
+By the end of this module, students will be able to:
 
 1. Navigate within the Jupyter Notebook / Jupyter Lab environment.
 2. Create a Jupyter notebook.
@@ -22,6 +35,26 @@ The content in this repository is aimed at beginning coders who may have never p
 7. Create and run Python cells in a notebook.
 8. Create a basic Hello World!
 9. Demonstrate basic mathematical operations.
+
+### To Do List
+
+**Read** 
+No reading for this session.
+
+**Watch**
+1. Variables and Memory
+2. Coding Style, Naming Conventions, and Documentation
+3. String Variables 
+
+**Complete**
+1. 01.1_getting_started Notebook
+2. Variables and Memory (QuickQuiz)
+2. Coding Style (QuickQuiz)
+3. String Variable (QuickQuiz)
+
+### Optional Content / Additional Resources
+
+***
 
 ### Session 2
 

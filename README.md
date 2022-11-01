@@ -58,8 +58,13 @@ No reading for this session.
 
 ### Session 2
 
+### Summary
+
+### Objectives
+By the end of this module, students will be able to:
+
 1. Explain the rules which govern Python variable behavior.
-2. Create a program that assigns values to a variable and perform calculations with those variables.
+2. Create a program that assigns values to a variable and performs variable calculations.
 3. Explain reserved keywords in Python.
 4. Trace variable changes within a program.
 5. Explain the key differences between numbers and character strings.
@@ -69,22 +74,73 @@ No reading for this session.
 9. Demonstrate string indexing.
 10. Describe situations in which SyntaxError and NameError occur.
 
+### To Do List
+
+**Read** 
+No reading for this session.
+
+**Watch**
+1. Printing Strings
+2. DataTypes
+3. Importing Libraries
+
+**Complete**
+1. 01.2_getting_started Notebook
+2. 02.1_libraries Notebook
+3. Printing Strings (QuickQuiz)
+4. DataTypes (QuickQuiz)
+5. Importing Libraries (QuickQuiz)
+
+### Optional Content / Additional Resources
+
+***
 ### Session 3
 
-1. Explain the purpose of functions.
-1. Explain and identify the difference between a function definition and a function call.
-1. Write a function that takes a small, fixed number of arguments and produces a single result.
-1. Use help to display documentation for built-in functions.
-1. Explain the concept of iteration.
-1. Explore and explain purpose of conditionals and loops.
-1. Correctly call built-in Python functions.
-1. Correctly nest calls to built-in functions.
-1. Explain indention in Python.
-1. Write for loops that use the Accumulator pattern to aggregate values.
-1. Trace the execution of a simple (un-nested) loop and correctly state the values of variables in each iteration.
-1. Discuss related best practices for coding.
+### Summary
 
+### Objectives
+By the end of this module, students will be able to:
+
+1. Explain the purpose of functions.
+2. Explain and identify the difference between a function definition and a function call.
+3. Write a function that takes a small, fixed number of arguments and produces a single result.
+4. Use help to display documentation for built-in functions.
+5. Explain the concept of iteration.
+6. Explore and explain purpose of conditionals and loops.
+7. Correctly call built-in Python functions.
+8. Correctly nest calls to built-in functions.
+9. Explain indention in Python.
+10. Write for loops that use the Accumulator pattern to aggregate values.
+11. Trace the execution of a simple (un-nested) loop and correctly state the values of variables in each iteration.
+12. Discuss related best practices for coding.
+
+### To Do List
+
+**Read** 
+No reading for this session.
+
+**Watch**
+1. For & While Loops
+2. Conditionals
+3. Functions
+
+**Complete**
+1. 03.1_loops Notebook
+2. 03.2_conditionals Notebook
+3. 03.3_functions Notebook
+4. For & While Loops (QuickQuiz)
+5. Conditionals (QuickQuiz)
+6. Functions (QuickQuiz)
+
+### Optional Content / Additional Resources
+
+***
 ### Session 4
+
+### Summary
+
+### Objectives
+By the end of this module, students will be able to:
 
 1. Explain data management.
 2. Explain what software libraries are and why programmers use them.
@@ -95,6 +151,27 @@ No reading for this session.
 7. Write a program that uses if and else if statements and simple Boolean expressions (without logical operators).
 8. Work with data from a .csv file.
 
+### To Do List
+
+**Read** 
+No reading for this session.
+
+**Watch**
+1. Anatomy of a Dataframe
+2. Slicing & Dicing Data
+3. Dataframe Basic Statistics
+4. Data Visualization with Matplotlib
+
+**Complete**
+1. 04.1_data_wrangling Notebook
+2. 04.2_data_wrangling Notebook
+3. Anatomy of a Dataframe (QuickQuiz)
+4. Slicing & Dicing Data (QuickQuiz)
+5. Dataframe Statistics (QuickQuiz)
+6. Data Visualization (QuickQuiz)
+
+
+***
 ## Notebooks in this workshop
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/python)

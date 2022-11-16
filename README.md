@@ -10,83 +10,100 @@ The vast majority of hands-on artificial intelligence work is currently done usi
 The content in this repository is aimed at beginning coders who may have never programmed before. As with the rest of the *Practicum AI* workshops, we use Jupyter Notebooks for the learning experience. Jupyter Notebooks are an easy to use, yet powerful tool that allow interactive coding as well as nicely formatted explanatory text. Much of exploratory AI research is conducted in Jupyter notebooks, and it is easy to transfer code from notebooks to scripts when it is time to scale up analyses.
 
 ***
-### Pre-Workshop
-**Watch**
-1. How to Learn a Programming Language
-2. Code Performance in HPC Environments 
 
-**Complete**
+## Course Outline
+
+### Getting Started
+
+#### Summary
+
+Learning a new programming language can be a challenge.  That's why it's important to start off on the right foot.  In this pre-module, we introduce you to some strategies you can use to accelerate the learning process.  We present some basic ideas to ensure that the code you write performs well in a high-performance computing (HPC) environment.
+
+*Topics:* The following topics are covered in this module:
+- How to Learn a Programming Language
+- Code Performance in HPC Environments
+
+#### Watch
+- How to Learn a Programming Language
+
+#### Complete
 1. Python Pre-Workshop (QuickQuiz)
 
 ***
-### Session 1
 
-### Summary
+### Module 1
 
-### Objectives
+#### Summary
+
+The art of Python programming begins with a basic understanding of how the language works, the JupyterLab notebook environment, and the importance of developing a consistent coding style supported by clear documentation.  These topics are covered in this first module as well as an initial look at the versatile Python string variable.  
+
+*Topics:* The following topics are covered in this module:
+- Variables and Memory
+- Coding Style, Naming Conventions, and Documentation
+- String Variables and printing strings
+
+#### Objectives
+
 By the end of this module, students will be able to:
-
 1. Navigate within the Jupyter Notebook / Jupyter Lab environment.
-2. Create a Jupyter notebook.
-3. Create a Python script.
-4. Explain the difference between a Python script and a Jupyter notebook.
-5. Explain the advantages of Jupyter Lab versus a traditional integrated development environment (IDE).
-6. Create Markdown cells in a notebook.
-7. Create and run Python cells in a notebook.
-8. Create a basic Hello World!
-9. Demonstrate basic mathematical operations.
+2. Describe what a variable is and how the basic Python operators work.  
+3. Explain the importance of a consistent coding style and clear documentation.
+4. Use basic string methods (indexing, slicing, etc.) when writing Python code.
+5. Analyze Python error messages and take corrective action to fix them.
+6. Recall that Python is a zero indexed language.
 
-### To Do List
+#### To Do List
 
-**Read** 
-No reading for this session.
+##### Read
+No reading for this module.
 
-**Watch**
-1. Variables and Memory
-2. Coding Style, Naming Conventions, and Documentation
-3. String Variables 
+##### Watch
+- Variables and Memory
 
-**Complete**
-1. 01.1_getting_started Notebook
-2. Variables and Memory (QuickQuiz)
-2. Coding Style (QuickQuiz)
-3. String Variable (QuickQuiz)
+##### Complete
 
-### Optional Content / Additional Resources
+1. [01.1_getting_started Notebook](01.1_getting_started.ipynb)
+1. Variables and Memory (QuickQuiz)
+1. Coding Style (QuickQuiz)
+1. String Variable (QuickQuiz)
+
+#### Optional Content / Additional Resources
+
+For those with no programming experience, the Python for Everbody [website](https://www.py4e.com/) and free textbook by Charles Severance is a wonderful resource.  If, on the other hand, you have prior programming experience, Brian Overland's *Python without Fear* is a great introduction to the language and includes advanced chapters on object-oriented programming.
 
 ***
 
-### Session 2
+### Module 2
 
 ### Summary
 
+In Python, every variable is of a specific type.  A variable's datatype, in turn, determines the kinds of operations that can be performed on it.  For that reason, a clear understanding of this concept, including typecasting, is of utmost importance. Also, by including, or `import`ing Python libraries, you can extend functionality and do more in less time by leveraging the work of other developers.  You will learn about these two key concepts (datatypes and reusability) in this module.  
+
+*Topics:* The following topics are covered in this module:
+- Printing Strings
+- DataTypes
+- Importing Libraries
+
 ### Objectives
 By the end of this module, students will be able to:
-
-1. Explain the rules which govern Python variable behavior.
-2. Create a program that assigns values to a variable and performs variable calculations.
-3. Explain reserved keywords in Python.
-4. Trace variable changes within a program.
-5. Explain the key differences between numbers and character strings.
-6. Explain the key differences between integers and floating point numbers.
-7. Manipulate character strings and numbers within variables.
-8. Explore the help, dir, and type related to string and variables.
-9. Demonstrate string indexing.
-10. Describe situations in which SyntaxError and NameError occur.
+1. Use string format methods to create and display custom text when writing Python code.
+2. Access a variable's methods using the dir() function and JupyterLab tab completion.
+3. Describe the various Python datatypes and be able to typecast a variable.
+4. Discuss the importance of reusability and how libraries implement this concept.
+5. Use *import* statements to access library functions.
 
 ### To Do List
 
-**Read** 
-No reading for this session.
+##### Read
+No reading for this module.
 
-**Watch**
-1. Printing Strings
-2. DataTypes
-3. Importing Libraries
+##### Watch
+No videos for this module.
 
-**Complete**
-1. 01.2_getting_started Notebook
-2. 02.1_libraries Notebook
+##### Complete
+
+1. [02.0_getting_started Notebook](02.1_getting_started.ipynb)
+2. [02.1_libraries Notebook](02.1_libraries.ipynb)
 3. Printing Strings (QuickQuiz)
 4. DataTypes (QuickQuiz)
 5. Importing Libraries (QuickQuiz)
@@ -94,40 +111,39 @@ No reading for this session.
 ### Optional Content / Additional Resources
 
 ***
-### Session 3
+
+### Module 3
 
 ### Summary
 
+This module introduces additional programming foundations.  These include loops, conditionals, and writing functions.  By snapping these together like Lego blocks, a software developer can create a wide variety of sophisticated applications. This module introduces these building blocks and how to develop a personal coding style which reflects coding best practices.
+
+*Topics:* The following topics are covered in this module:
+- For & While Loops
+- Conditionals
+- Functions
+
 ### Objectives
 By the end of this module, students will be able to:
-
-1. Explain the purpose of functions.
-2. Explain and identify the difference between a function definition and a function call.
-3. Write a function that takes a small, fixed number of arguments and produces a single result.
-4. Use help to display documentation for built-in functions.
-5. Explain the concept of iteration.
-6. Explore and explain purpose of conditionals and loops.
-7. Correctly call built-in Python functions.
-8. Correctly nest calls to built-in functions.
-9. Explain indention in Python.
-10. Write for loops that use the Accumulator pattern to aggregate values.
-11. Trace the execution of a simple (un-nested) loop and correctly state the values of variables in each iteration.
-12. Discuss related best practices for coding.
+1. Implement *for* and *while* loops in Python code and understand how the two differ.
+2. Use *if*, *elif*, *else*, and Boolean opera
+3. Write clearly documented single-purpose functions.
+4. Correctly nest calls to Python built-in functions.
+5. Develop a personal coding style which reflects coding best practices.
 
 ### To Do List
 
-**Read** 
-No reading for this session.
+##### Read 
+No reading for this module.
 
-**Watch**
-1. For & While Loops
-2. Conditionals
-3. Functions
+##### Watch
+- Functions
 
-**Complete**
-1. 03.1_loops Notebook
-2. 03.2_conditionals Notebook
-3. 03.3_functions Notebook
+##### Complete
+
+1. [03.1_loops Notebook](03.1_loops.ipynb)
+2. [03.2_conditionals Notebook](03.2_conditionals.ipynb)
+3. [03.3_functions Notebook](03.3_functions.ipynb)
 4. For & While Loops (QuickQuiz)
 5. Conditionals (QuickQuiz)
 6. Functions (QuickQuiz)
@@ -135,41 +151,41 @@ No reading for this session.
 ### Optional Content / Additional Resources
 
 ***
-### Session 4
+### Module 4
 
 ### Summary
 
+Because most AI projects devote about 80% of their time to data wrangling, it is only fitting that our Python series end on this note.  Pandas is the go-to library for all things data.  Thus, the topics presented in this module include Pandas dataframes, loading data into dataframes from csv files, slicing and dicing data, using statistics to summarize a dataset, and visualizing data with `matplotlib`.
+
+*Topics:* The following topics are covered in this module:
+- Anatomy of a Dataframe
+- Slicing & Dicing Data
+- Dataframe Basic Statistics
+- Data Visualization with Matplotlib
+
 ### Objectives
 By the end of this module, students will be able to:
-
-1. Explain data management.
-2. Explain what software libraries are and why programmers use them.
-3. Discuss and explore Pandas DataFrames.
-4. Import the Pandas or cudf library.
-5. Find and read documentation for the standard library interactively (in the interpreter) and online.
-6. Write a program that imports and uses modules from Python's standard library.
-7. Write a program that uses if and else if statements and simple Boolean expressions (without logical operators).
-8. Work with data from a .csv file.
+1. Explain the various components of a Pandas dataframe and be able to construct one.
+2. Use `read_csv()` and related variants to create and populate a dataframe from a file.
+3. Slice and dice data with Pandas index and dataframe management functions.
+4. Illustrate the appropriate use of basic statistical functions to summarize a dataset.
+5. Use `matplotlib` functions to generate clear graphs and plots.
 
 ### To Do List
 
-**Read** 
-No reading for this session.
+##### Read 
+No reading for this module.
 
-**Watch**
-1. Anatomy of a Dataframe
-2. Slicing & Dicing Data
-3. Dataframe Basic Statistics
-4. Data Visualization with Matplotlib
+##### Watch
+No videos for this module.
 
-**Complete**
-1. 04.1_data_wrangling Notebook
-2. 04.2_data_wrangling Notebook
+##### Complete
+1. [04.1_data_wrangling Notebook](04.1_data_wrangling.ipynb)
+2. [04.2_data_wrangling Notebook](04.2_data_wrangling.ipynb)
 3. Anatomy of a Dataframe (QuickQuiz)
 4. Slicing & Dicing Data (QuickQuiz)
 5. Dataframe Statistics (QuickQuiz)
 6. Data Visualization (QuickQuiz)
-
 
 ***
 ## Notebooks in this workshop

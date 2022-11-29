@@ -2,12 +2,11 @@
 
 ![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) <img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_python.png?raw=true' align='right' width=100>
 
-
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/python)
 
 The vast majority of hands-on artificial intelligence work is currently done using the Python programming language. As such, *some* understanding of Python, in particular, and computer programming, in general, is needed to be successful in applying AI. That said, it is truly astounding how much complex AI research can be accomplished with a few lines of code!
 
-The content in this repository is aimed at beginning coders who may have never programmed before. As with the rest of the *Practicum AI* workshops, we use Jupyter Notebooks for the learning experience. Jupyter Notebooks are an easy to use, yet powerful tool that allow interactive coding as well as nicely formatted explanatory text. Much of exploratory AI research is conducted in Jupyter notebooks, and it is easy to transfer code from notebooks to scripts when it is time to scale up analyses.
+The content in this workshop is aimed at beginning coders who may have never programmed before. As with the rest of the *Practicum AI* workshops, we use Jupyter Notebooks for the learning experience. Jupyter Notebooks are an easy to use, yet powerful tool that allow interactive coding as well as nicely formatted explanatory text. Much of exploratory AI research is conducted in Jupyter Notebooks, and it is easy to transfer code from Notebooks to scripts when it is time to scale up analyses.
 
 ***
 
@@ -20,13 +19,24 @@ The content in this repository is aimed at beginning coders who may have never p
 Learning a new programming language can be a challenge.  That's why it's important to start off on the right foot.  In this pre-module, we introduce you to some strategies you can use to accelerate the learning process.  We present some basic ideas to ensure that the code you write performs well in a high-performance computing (HPC) environment.
 
 *Topics:* The following topics are covered in this module:
+
 - How to Learn a Programming Language
 - Code Performance in HPC Environments
 
 #### Watch
+
+- About Practicum AI, our courses and badges
+- Meet your instructors
 - How to Learn a Programming Language
+- A quick introduction to Canvas
+
+#### Read
+
+- Getting help on the discussion board
+- Providing feedback via Issues
 
 #### Complete
+
 1. Python Pre-Workshop (QuickQuiz)
 
 ***
@@ -38,6 +48,7 @@ Learning a new programming language can be a challenge.  That's why it's importa
 The art of Python programming begins with a basic understanding of how the language works, the JupyterLab notebook environment, and the importance of developing a consistent coding style supported by clear documentation.  These topics are covered in this first module as well as an initial look at the versatile Python string variable.  
 
 *Topics:* The following topics are covered in this module:
+
 - Variables and Memory
 - Coding Style, Naming Conventions, and Documentation
 - String Variables and printing strings
@@ -45,12 +56,12 @@ The art of Python programming begins with a basic understanding of how the langu
 #### Objectives
 
 By the end of this module, students will be able to:
-1. Navigate within the Jupyter Notebook / Jupyter Lab environment.
-2. Describe what a variable is and how the basic Python operators work.  
-3. Explain the importance of a consistent coding style and clear documentation.
-4. Use basic string methods (indexing, slicing, etc.) when writing Python code.
-5. Analyze Python error messages and take corrective action to fix them.
-6. Recall that Python is a zero indexed language.
+
+1. Define what a variable is and how the basic Python operators work.  
+1. Recognize the importance of a consistent coding style and clear documentation.
+1. Use basic string methods (indexing, slicing, etc.) when writing Python code.
+1. Analyze Python error messages and identify corrective action to fix them.
+
 
 #### To Do List
 
@@ -69,7 +80,7 @@ No reading for this module.
 
 #### Optional Content / Additional Resources
 
-For those with no programming experience, the Python for Everbody [website](https://www.py4e.com/) and free textbook by Charles Severance is a wonderful resource.  If, on the other hand, you have prior programming experience, Brian Overland's *Python without Fear* is a great introduction to the language and includes advanced chapters on object-oriented programming.
+For those with no programming experience, the [Python for Everybody website](https://www.py4e.com/), where you can also download the *free* textbook by Charles Severance, is a wonderful resource.  If, on the other hand, you have prior programming experience, Brian Overland's [*Python without Fear*](https://www.oreilly.com/library/view/python-without-fear/9780134688251/) is a great introduction to the language and includes advanced chapters on object-oriented programming.
 
 ***
 

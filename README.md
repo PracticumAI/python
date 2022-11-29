@@ -27,7 +27,8 @@ Learning a new programming language can be a challenge.  That's why it's importa
 
 - About Practicum AI, our courses and badges
 - Meet your instructors
-- How to Learn a Programming Language
+- Introduction to Python and How to Learn a Programming Language
+  - Slides: [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Introduction to Python](https://github.com/PracticumAI/python/raw/main/presentations/01_Intro_to_Python.pptx)
 - A quick introduction to Canvas
 
 #### Read
@@ -62,14 +63,12 @@ By the end of this module, students will be able to:
 1. Use basic string methods (indexing, slicing, etc.) when writing Python code.
 1. Analyze Python error messages and identify corrective action to fix them.
 
-
 #### To Do List
 
-##### Read
-No reading for this module.
-
 ##### Watch
+
 - Variables and Memory
+  - Slides: [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Variables](https://github.com/PracticumAI/python/raw/main/presentations/02_Variables.pptx)
 
 ##### Complete
 
@@ -91,12 +90,15 @@ For those with no programming experience, the [Python for Everybody website](htt
 In Python, every variable is of a specific type.  A variable's datatype, in turn, determines the kinds of operations that can be performed on it.  For that reason, a clear understanding of this concept, including typecasting, is of utmost importance. Also, by including, or `import`ing Python libraries, you can extend functionality and do more in less time by leveraging the work of other developers.  You will learn about these two key concepts (datatypes and reusability) in this module.  
 
 *Topics:* The following topics are covered in this module:
+
 - Printing Strings
 - DataTypes
 - Importing Libraries
 
 ### Objectives
+
 By the end of this module, students will be able to:
+
 1. Use string format methods to create and display custom text when writing Python code.
 2. Access a variable's methods using the dir() function and JupyterLab tab completion.
 3. Describe the various Python datatypes and be able to typecast a variable.
@@ -104,12 +106,6 @@ By the end of this module, students will be able to:
 5. Use *import* statements to access library functions.
 
 ### To Do List
-
-##### Read
-No reading for this module.
-
-##### Watch
-No videos for this module.
 
 ##### Complete
 
@@ -130,12 +126,15 @@ No videos for this module.
 This module introduces additional programming foundations.  These include loops, conditionals, and writing functions.  By snapping these together like Lego blocks, a software developer can create a wide variety of sophisticated applications. This module introduces these building blocks and how to develop a personal coding style which reflects coding best practices.
 
 *Topics:* The following topics are covered in this module:
+
 - For & While Loops
 - Conditionals
 - Functions
 
 ### Objectives
+
 By the end of this module, students will be able to:
+
 1. Implement *for* and *while* loops in Python code and understand how the two differ.
 2. Use *if*, *elif*, *else*, and Boolean opera
 3. Write clearly documented single-purpose functions.
@@ -144,11 +143,14 @@ By the end of this module, students will be able to:
 
 ### To Do List
 
-##### Read 
-No reading for this module.
-
 ##### Watch
+
+- Loops
+  - [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Loops](https://github.com/PracticumAI/python/raw/main/presentations/03.1_Loops.pptx)
+- Conditionals
+  - [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Conditionals](https://github.com/PracticumAI/python/raw/main/presentations/03.2_Conditionals.pptx)
 - Functions
+  - [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Functions](https://github.com/PracticumAI/python/raw/main/presentations/03.3_Functions.pptx)
 
 ##### Complete
 
@@ -169,13 +171,16 @@ No reading for this module.
 Because most AI projects devote about 80% of their time to data wrangling, it is only fitting that our Python series end on this note.  Pandas is the go-to library for all things data.  Thus, the topics presented in this module include Pandas dataframes, loading data into dataframes from csv files, slicing and dicing data, using statistics to summarize a dataset, and visualizing data with `matplotlib`.
 
 *Topics:* The following topics are covered in this module:
+
 - Anatomy of a Dataframe
 - Slicing & Dicing Data
 - Dataframe Basic Statistics
 - Data Visualization with Matplotlib
 
 ### Objectives
+
 By the end of this module, students will be able to:
+
 1. Explain the various components of a Pandas dataframe and be able to construct one.
 2. Use `read_csv()` and related variants to create and populate a dataframe from a file.
 3. Slice and dice data with Pandas index and dataframe management functions.
@@ -184,53 +189,16 @@ By the end of this module, students will be able to:
 
 ### To Do List
 
-##### Read 
-No reading for this module.
-
 ##### Watch
-No videos for this module.
+
+- Data Wrangling
+  - [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Data Wrangling](https://github.com/PracticumAI/python/raw/main/presentations/04_Data_Wrangling.pptx)
 
 ##### Complete
+
 1. [04.1_data_wrangling Notebook](04.1_data_wrangling.ipynb)
 2. [04.2_data_wrangling Notebook](04.2_data_wrangling.ipynb)
 3. Anatomy of a Dataframe (QuickQuiz)
 4. Slicing & Dicing Data (QuickQuiz)
 5. Dataframe Statistics (QuickQuiz)
 6. Data Visualization (QuickQuiz)
-
-***
-## Notebooks in this workshop
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PracticumAI/python)
-
-### Getting Started
-
-* [01.1_getting_started.ipynb](01.1_getting_started.ipynb)
-* [01.2_getting_started.ipynb](01.2_getting_started.ipynb)
-
-### Libraries and Modules
-
-* [02.1_libraries.ipynb](02.1_libraries.ipynb)
-
-### Conditionals and Loops
-
-* [03.1_loops.ipynb](03.1_loops.ipynb)
-* [03.2_conditionals.ipynb](03.2_conditonals.ipynb)
-
-### Functions
-
-* [03.3_functions.ipynb](03.3_functions.ipynb)
-
-### Data wrangling with Pandas 
-
-* [04.1_data_wrangling.ipynb](04.1_data_wrangling.ipynb)
-* [04.2_data_wrangling.ipynb](04.2_data_wrangling.ipynb)
-
-## Powerpoint slides used in this workshop
-
-> Note, links download the PowerPoint files.
-
-* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Introduction to Python](https://github.com/PracticumAI/python/raw/main/presentations/01_getting_started.pptx)
-* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Booleans, Conditionals, and Loops](https://github.com/PracticumAI/python/raw/main/presentations/02_loops.pptx)
-* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Functions](https://github.com/PracticumAI/python/raw/main/presentations/03_functions.pptx)
-* [![PowerPoint icon](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/pptx_icon.png?raw=true) Python Data Management with Pandas](https://github.com/PracticumAI/python/raw/main/presentations/04_data_mgmt.pptx)

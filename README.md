@@ -1,5 +1,4 @@
 ---
-layout: full_page
 ---
 
 # Introduction to Python Workshop

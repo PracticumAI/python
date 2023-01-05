@@ -1,3 +1,6 @@
+---
+---
+
 # Introduction to Python Workshop
 
 ![Practicum AI Logo image](https://github.com/PracticumAI/practicumai.github.io/blob/main/images/logo/PracticumAI_logo_500x100.png?raw=true) <img src='https://github.com/PracticumAI/practicumai.github.io/blob/main/images/icons/practicumai_python.png?raw=true' align='right' width=100>
@@ -42,7 +45,7 @@ Learning a new programming language can be a challenge.  That's why it's importa
 
 ***
 
-### Module 1
+### Module 1: Understanding variables and coding style
 
 #### Summary
 
@@ -83,7 +86,7 @@ For those with no programming experience, the [Python for Everybody website](htt
 
 ***
 
-### Module 2
+### Module 2: Printing, Variable Types and Libraries
 
 ### Summary
 
@@ -119,7 +122,7 @@ By the end of this module, students will be able to:
 
 ***
 
-### Module 3
+### Module 3: Loops, Conditionals and Functions
 
 ### Summary
 
@@ -164,7 +167,7 @@ By the end of this module, students will be able to:
 ### Optional Content / Additional Resources
 
 ***
-### Module 4
+### Module 4: Starting Data Wrangling
 
 ### Summary
 

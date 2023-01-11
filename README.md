@@ -42,7 +42,7 @@ Learning a new programming language can be a challenge.  That's why it's importa
 
 ***
 
-### Module 1: Understanding variables and coding style
+### Module 1: Understanding Variables and Coding Style
 
 #### Summary
 
@@ -119,7 +119,7 @@ By the end of this module, students will be able to:
 
 ***
 
-### Module 3: Loops, Conditionals and Functions
+### Module 3: Loops, Conditionals, and Functions
 
 ### Summary
 
